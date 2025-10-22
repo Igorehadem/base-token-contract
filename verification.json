@@ -1,12 +1,15 @@
 {
+  "contractName": "BaseToken",
   "network": "Base Mainnet",
   "address": "0xc419F1db048B08671c1CA40D4Ac66EaAf452b20a",
-  "compiler": "v0.8.24+commit.e11b9ed9",
-  "optimizer": true,
-  "runs": 200,
+  "transactionHash": "0x786e6b9cfb5e7dd7f9ce8a96e64a6d233d47e868c28870117a2801e9e7e9d5ec",
+  "compilerVersion": "v0.8.24+commit.e11b9ed9",
+  "optimizerEnabled": false,
+  "optimizerRuns": 200,
   "license": "MIT",
-  "verified": true,
-  "basescan_url": "https://basescan.org/address/0xc419F1db048B08671c1CA40D4Ac66EaAf452b20a#code",
-  "constructor_args": "00000000000000000000000000000000000000000000000000000000009184e72a000",
-  "deployer": "0xb384815df969a6d6c36ab5e6f9bf88ef51e885dd"
+  "constructorArguments": "000000000000000000000000000000000000000000000000000000000009184e72a000",
+  "verifiedOn": "https://basescan.org/address/0xc419F1db048B08671c1CA40D4Ac66EaAf452b20a#code",
+  "sourcify": "https://repo.sourcify.dev/8453/0xc419F1db048B08671c1CA40D4Ac66EaAf452b20a/",
+  "blockscout": "https://base.blockscout.com/address/0xc419F1db048B08671c1CA40D4Ac66EaAf452b20a",
+  "routescan": "https://routescan.io/address/0xc419F1db048B08671c1CA40D4Ac66EaAf452b20a/contract/8453/code"
 }
