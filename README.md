@@ -21,7 +21,7 @@ Deployed by **@Igorehadem**
 Verified ✅ on **Base Mainnet**  
 October 2025
 
----
+
 🧠 Related projects:
 - [Farcaster Bot Core](https://github.com/Igorehadem/farcaster-bot-core)
 - [Base Token Contract](https://basescan.org/address/0xc419F1db048B08671c1CA40D4Ac66EaAf452b20a#code)
