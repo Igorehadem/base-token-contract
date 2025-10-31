@@ -2,10 +2,10 @@
 pragma solidity ^0.8.24;
 
 /**
- * @title BaseToken
- * @dev Простейший ERC20-совместимый токен без внешних зависимостей.
- * Полностью верифицируется на Basescan.
+ * Simple ERC20-compatible token with no external dependencies.
+ * Fully verifiable on Basescan.
  */
+
 contract BaseToken {
     string public name = "Base Token";
     string public symbol = "BASET";
