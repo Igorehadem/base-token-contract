@@ -1,3 +1,4 @@
+
 # BaseToken 🪙
 
 Verified ERC20-compatible token deployed on **Base Mainnet**.
@@ -15,3 +16,43 @@ Recent deployment history and verification notes live in [`CHANGELOG.md`](./CHAN
 
 - [Farcaster Bot Core](https://github.com/Igorehadem/farcaster-bot-core)
 - [Base Node (fork)](https://github.com/Igorehadem/node)
+
+---
+
+## Local development & testing
+
+### Installation
+
+```bash
+npm install
+```
+
+### Compile contracts
+
+```bash
+npx hardhat compile
+```
+
+### Run tests
+
+```bash
+npx hardhat test
+```
+
+### Deploy manually
+
+```bash
+npx hardhat run scripts/deploy.js --network base
+```
+
+---
+
+## Folder structure
+
+```
+├── BaseToken.sol          # Solidity contract
+├── test/                  # Unit tests (Chai / Mocha)
+├── scripts/               # Deployment scripts
+├── verification.json      # Onchain verification metadata
+└── hardhat.config.js      # Compiler and network configuration
+```
