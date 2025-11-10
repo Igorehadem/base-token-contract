@@ -1,0 +1,16 @@
+{
+  "name": "base-token-contract",
+  "version": "1.1.0",
+  "description": "Minimal ERC20-compatible token verified on Base Mainnet",
+  "author": "Igorehadem",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.22.0"
+  }
+}
