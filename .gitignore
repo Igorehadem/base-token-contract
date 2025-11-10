@@ -1,0 +1,13 @@
+# Node / Hardhat
+node_modules/
+artifacts/
+cache/
+
+# Env / OS
+.env
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
